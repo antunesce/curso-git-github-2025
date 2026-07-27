@@ -1,0 +1,4 @@
+pwd -> mostra o diretório que está
+ls -> lista os arquivos e pastas do local que está
+cd -> acessa um diretório
+
