@@ -1,4 +1,5 @@
-pwd -> mostra o diretório que está
 ls -> lista os arquivos e pastas do local que está
 cd -> acessa um diretório
-
+pwd -> mostra o diretório que está
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório
